@@ -8,7 +8,7 @@ Punctuation that is available on the first screen of special characters in both 
 
 For example, `*` is a bad punctuation choice because it's buried two key presses in on iOS.
 
-UIUC allowed: `$ & - ( ) " ' : ; ! ? , / .`
+UIUC allowed: `$ & - ( ) ' : ; ! ? / .`
 
 ## Diceware
 
